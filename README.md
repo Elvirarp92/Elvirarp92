@@ -14,4 +14,7 @@ I'm a curious, driven and inquisitive full-stack developer with a deep interest 
 * Shared understanding
 * Love what you do
 
+## 🧑‍💼 Me, as a professional
 <img src="https://github-readme-linkedin.vercel.app/education?username=elvira-ramirez" />
+<img src="https://github-readme-linkedin.vercel.app/skills?username=elvira-ramirez" />
+<img src="https://github-readme-linkedin.vercel.app/languages?username=elvira-ramirez" />

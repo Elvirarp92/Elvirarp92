@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/mK94KES.png)
 
-<p align="center"> 
+<p align="center" style="display:flex; justify-content:space-evenly"> 
   <a href="https://www.linkedin.com/in/elvira-ramirez/">
     <img src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" alt="My LinkedIn" width="40" height="40" />
   </a>

@@ -13,3 +13,5 @@ I'm a curious, driven and inquisitive full-stack developer with a deep interest 
 * Never stop striving
 * Shared understanding
 * Love what you do
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElviraRP92)](https://github.com/ElviraRP92/github-readme-stats)

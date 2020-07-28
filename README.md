@@ -1,11 +1,15 @@
 ![](/home/elviraramirez/Sandbox/elvirarp92/img/profile-banner.png)
 
-<img src="https://unpkg.com/simple-icons@v3/icons/twitter.svg" alt="My Twitter" width="100" height="100">
+<center><img src="https://unpkg.com/simple-icons@v3/icons/twitter.svg" alt="My Twitter" width="50" height="50"></center>
 
-# Who am I?
 
-I'm a curious, driven and inquisitive full-stack developer with a deep interest in backend development and DevOps philosophy. 
+# 👋 Who am I?
 
-# What do I do?
+I'm a curious, driven and inquisitive full-stack developer with a deep interest in backend development and DevOps philosophy. Team player by nature, detail oriented by nurture. 
 
-# Where can you find me?
+# What are my values?
+
+* Learn by doing
+* Never stop striving
+* Shared understanding
+* Love what you do

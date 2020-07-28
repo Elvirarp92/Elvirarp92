@@ -1,6 +1,6 @@
 ![](/home/elviraramirez/Sandbox/elvirarp92/img/profile-banner.png)
 
-![](https://unpkg.com/simple-icons@v3/icons/twitter.svg)
+<img src="https://unpkg.com/simple-icons@v3/icons/twitter.svg" alt="My Twitter" width="100" height="100">
 
 # Who am I?
 

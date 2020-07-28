@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/mK94KES.png)
 
-<img src="https://unpkg.com/simple-icons@v3/icons/twitter.svg" alt="My Twitter" width="50" height="50">
+<img src="https://unpkg.com/simple-icons@v3/icons/twitter.svg" alt="My Twitter" width="50" height="50" />
 
 
 ## 👋 Who am I?
@@ -14,4 +14,4 @@ I'm a curious, driven and inquisitive full-stack developer with a deep interest 
 * Shared understanding
 * Love what you do
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElviraRP92)](https://github.com/ElviraRP92/github-readme-stats)
+<img src="https://github-readme-linkedin.vercel.app/education?username=elvira-ramirez" />

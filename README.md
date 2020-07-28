@@ -7,7 +7,7 @@
 
 I'm a curious, driven and inquisitive full-stack developer with a deep interest in backend development and DevOps philosophy. Team player by nature, detail oriented by nurture. 
 
-## 🙌 What are my values?
+## 📢 What are my values?
 
 * Learn by doing
 * Never stop striving

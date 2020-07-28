@@ -17,4 +17,4 @@ I'm a curious, driven and inquisitive full-stack developer with a deep interest 
 
 ## 🔧 What do I do?
 
-I am currently looking to land my first opportunity in tech! Meanwhile, I expand my knowledge, work on personal project, and share my passion for what I do on LinkedIn. 
+I'm currently looking to land my first opportunity in tech! Meanwhile, I expand my knowledge, work on personal projects, and share my passion for what I do on LinkedIn. 

@@ -1,6 +1,7 @@
 ![](https://i.imgur.com/mK94KES.png)
 
-<img src="https://unpkg.com/simple-icons@v3/icons/twitter.svg" alt="My Twitter" width="50" height="50" />
+<article align="center"> <img src="https://unpkg.com/simple-icons@v3/icons/twitter.svg" alt="My Twitter" width="50" height="50" /> </article>
+
 
 
 ## 👋 Who am I?
